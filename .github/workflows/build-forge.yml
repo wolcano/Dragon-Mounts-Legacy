@@ -3,7 +3,7 @@ on: [push]
 
 defaults:
   run:
-    working-directory: ./forge
+    working-directory: ./src
 
 jobs:
   build:
